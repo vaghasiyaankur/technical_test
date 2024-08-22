@@ -1,0 +1,53 @@
+{
+  "hash": "9b94f4be",
+  "browserHash": "d64d88f3",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "d36f7e51",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "9675fbfc",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/primevue/config/config.esm.js",
+      "file": "primevue_config.js",
+      "fileHash": "e7dafd4b",
+      "needsInterop": false
+    },
+    "primevue/toastservice": {
+      "src": "../../node_modules/primevue/toastservice/toastservice.esm.js",
+      "file": "primevue_toastservice.js",
+      "fileHash": "09b63501",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "8e90d3d6",
+      "needsInterop": false
+    },
+    "@vueuse/integrations/useCookies": {
+      "src": "../../node_modules/@vueuse/integrations/useCookies.mjs",
+      "file": "@vueuse_integrations_useCookies.js",
+      "fileHash": "79f8681a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7ZMJICGY": {
+      "file": "chunk-7ZMJICGY.js"
+    },
+    "chunk-L3N4JKNV": {
+      "file": "chunk-L3N4JKNV.js"
+    },
+    "chunk-OBIMKLVP": {
+      "file": "chunk-OBIMKLVP.js"
+    }
+  }
+}
